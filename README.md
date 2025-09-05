@@ -2,9 +2,10 @@
 
 # Uma Musume Support Card Tier List
 
-The **[Uma Musume Support Card Tier List](http://umamusumetierlist.net/)** is the ultimate guide for ranking support cards, optimizing deck building, and mastering training strategies. Whether you’re a beginner or a competitive player, this tier list helps you find the **best SSR support cards** and use them effectively.  
+The **[Uma Musume Support Card Tier List](https://umamusumetierlist.net)** is the ultimate guide for ranking support cards, optimizing deck building, and mastering training strategies. Whether you’re a beginner or a competitive player, this tier list helps you find the **best SSR support cards** and use them effectively.  
 <img width="505" height="104" alt="image" src="https://github.com/user-attachments/assets/2465f780-18f1-4641-9088-11dc10d022a4" />
 
+website:[https://umamusumetierlist.net](https://umamusumetierlist.net)
 ---
 
 ## 🔥 What is the Uma Musume Support Card Tier List?
